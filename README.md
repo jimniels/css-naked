@@ -4,7 +4,7 @@ Strip all styles for a given webpage (using client-side JavaScript). Inspired by
 
 ## Try it
 
-Try this for any site on the web. Load a web page with the query param `?css-naked`, open the browser’s DevTools, and run this dynamic import:
+Try this for any site on the web. Load a web page with the query param `?css-naked`, open the console in the browser’s DevTools, and run this dynamic import:
 
 ```js
 import("https://cdn.jsdelivr.net/gh/jimniels/css-naked@0.1.0/css-naked.js");
