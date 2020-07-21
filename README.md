@@ -1,6 +1,6 @@
 # `css-naked`
 
-Strip all styles for a given webpage (using client-side JavaScript). Inspired by [css-naked-day](https://css-naked-day.github.io/). @TODO blog post about this to come.
+Strip all styles for a given webpage (using client-side JavaScript). Inspired by [css-naked-day](https://css-naked-day.github.io/). Read more in [my CSS Naked blog post](https://blog.jim-nielsen.com/2020/css-naked/)
 
 ## Try it
 
